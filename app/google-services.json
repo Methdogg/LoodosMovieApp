@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064666896903",
+    "firebase_url": "https://lodos-app.firebaseio.com",
+    "project_id": "lodos-app",
+    "storage_bucket": "lodos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064666896903:android:6d8609b09e1cd1c01f28a2",
+        "android_client_info": {
+          "package_name": "com.methdogg.lodosmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064666896903-ih91d3grs3obna1age291a9e9sih1lf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.methdogg.lodosmovieapp",
+            "certificate_hash": "b7116beb6ba77632baa04a3dbf228ec3339d3c0b"
+          }
+        },
+        {
+          "client_id": "1064666896903-o0gc00b9ga6b6ugnmlq4pj3uik3hkbm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ51q9IZpKUk0r-NWloiFbNZY7Eg7eVcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064666896903-o0gc00b9ga6b6ugnmlq4pj3uik3hkbm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
